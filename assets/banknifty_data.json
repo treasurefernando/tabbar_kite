@@ -1,0 +1,5 @@
+[
+{"symbol":"Professional Services","exchange":"CDI","last_price":1331.55,"change":-11.27,"change_percent":87.84,"quantity":3},
+{"symbol":"Semiconductors","exchange":"NXPI","last_price":1002.32,"change":51.8,"change_percent":73.8,"quantity":664},
+{"symbol":"Packaged Foods","exchange":"MKC","last_price":1013.08,"change":33.0,"change_percent":74.05,"quantity":986},
+{"symbol":"Miscellaneous industries","exchange":"SUMR","last_price":761.99,"change":-24.05,"change_percent":33.19,"quantity":496}]

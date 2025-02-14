@@ -1,0 +1,7 @@
+[
+    {"symbol":"Forest Products","exchange":"MCX","last_price":1376.2,"change":-42.43,"change_percent":83.39,"quantity":329},
+    {"symbol":"Farming/Seeds/Milling","exchange":"MCX","last_price":613.22,"change":15.1,"change_percent":43.91,"quantity":660},
+    {"symbol":"Oil & Gas Production","exchange":"NSE","last_price":32.29,"change":90.47,"change_percent":16.04,"quantity":501},
+    {"symbol":"Industrial Machinery/Components","exchange":"NSE","last_price":1686.22,"change":88.71,"change_percent":1.62,"quantity":443},
+    {"symbol":"Oil Refining/Marketing","exchange":"MCX","last_price":1937.79,"change":-38.13,"change_percent":19.44,"quantity":139}
+  ]
